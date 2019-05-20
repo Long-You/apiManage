@@ -1,0 +1,47 @@
+{
+  "_from": "yl-api",
+  "_inBundle": false,
+  "_integrity": "sha512-E84+pEjF4iuynBi5GggrT4Qb2QLUkxcuAq0jMTZVsbxDQDtmsJgmskFrAo8JVP9rbvqsl1kycD+P402lwJ8Rjg==",
+  "_location": "/yl-api",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "yl-api",
+    "name": "yl-api",
+    "escapedName": "yl-api",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/yl-api/-/yl-api-1.0.1.tgz",
+  "_shasum": "22c6e0625251fa2b19304089a98bd417e6a544e6",
+  "_spec": "yl-api",
+  "_where": "",
+  "author": "Long You",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Long-You/apiManage.git"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "api manage",
+  "keywords": [
+    "api"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "yl-api",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.1",
+  "bugs": {
+    "url": "https://github.com/Long-You/apiManage/issues"
+  },
+  "homepage": "https://github.com/Long-You/apiManage#readme"
+}
